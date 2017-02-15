@@ -1,0 +1,23 @@
+.container{
+    width: 100%;
+    min-height: 300px;
+    text-align: center;
+    display: inline-block;
+}
+.add-button{
+    position: absolute;
+}
+.form-control{
+    width:100%;
+}
+.add-user-form{
+    margin-bottom: 3em;
+}
+.sort-radio-group{
+    overflow: hidden;
+    max-height: 500px;
+}
+.form-control-input{
+    width: 100% !important;
+    margin: 0 auto;
+}
